@@ -47,8 +47,8 @@
   },
   "lint-staged": {
     "./src/**/*.{ts,js,json}": [
-      "yarn lint",
-      "yarn format"
+      "npm run lint",
+      "npm run format"
     ]
   },
   "config": {

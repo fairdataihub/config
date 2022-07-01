@@ -10,7 +10,7 @@ A simple list of configs for use in fairdataihub projects
 
 1. `git clone https://github.com/fairdataihub/config.git `
 2. `cd config`
-3. `yarn install`
+3. `npm install`
 
 To enable deployment, you will need to:
 
