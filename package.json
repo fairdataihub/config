@@ -42,9 +42,23 @@
     "test:coverage": "nyc ava && nyc report --reporter=html",
     "spell:check": "cspell \"{README.md,CODE_OF_CONDUCT.md,CONTRIBUTING.md,.github/*.md,src/**/*.ts}\"",
     "cz": "cz",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "prepare": "husky install"
   },
-  "dependencies": {
+  "lint-staged": {
+    "./src/**/*.{ts,js,json}": [
+      "yarn lint",
+      "yarn format"
+    ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/github": "^8.0.4",
@@ -64,6 +78,8 @@
     "eslint-import-resolver-typescript": "^2.7.1",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-import": "^2.26.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
     "nyc": "^15.1.0",
     "prettier": "^2.6.2",
     "prompts": "^2.4.1",
@@ -75,5 +91,8 @@
   "volta": {
     "node": "16.15.0",
     "npm": "8.9.0"
+  },
+  "dependencies": {
+    "devmoji": "^2.3.0"
   }
 }
