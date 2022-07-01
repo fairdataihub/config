@@ -1,3 +1,11 @@
+## [1.1.5](https://github.com/fairdataihub/config/compare/v1.1.4...v1.1.5) (2022-07-01)
+
+
+### Bug Fixes
+
+* 🐛 remove secrets type ([31781a6](https://github.com/fairdataihub/config/commit/31781a6c5f24fb2b6d2c62b894b26a63d5793153))
+* 🐛 remove secrets type ([7da2eec](https://github.com/fairdataihub/config/commit/7da2eec67d936c1a96dc45b0523a6da2349ea9e8))
+
 ## [1.1.4](https://github.com/fairdataihub/config/compare/v1.1.3...v1.1.4) (2022-07-01)
 
 ### Bug Fixes
