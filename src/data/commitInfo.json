@@ -2,7 +2,7 @@
   "types": [
     {
       "code": "feat",
-      "gitmoji": ":sparkles:",
+      "gitmoji": "sparkles",
       "description": "Changes which introduce a new feature"
     },
     {
@@ -12,97 +12,97 @@
     },
     {
       "code": "fix",
-      "gitmoji": ":bug:",
+      "gitmoji": "bug",
       "description": "Changes which patch a bug. Includes spelling error corrections"
     },
     {
       "code": "docs",
-      "gitmoji": ":memo:",
+      "gitmoji": "memo",
       "description": "Changes which affect documentation"
     },
     {
       "code": "style",
-      "gitmoji": ":art:",
+      "gitmoji": "art",
       "description": "Changes which don't affect code logic, such as white-spaces, formatting, missing semi-colons"
     },
     {
       "code": "refactor",
-      "gitmoji": ":recycle:",
+      "gitmoji": "recycle",
       "description": "Changes which neither introduce a new feature nor fix a bug"
     },
     {
       "code": "revert",
-      "gitmoji": ":rewind:",
+      "gitmoji": "rewind",
       "description": "Reverts a previous commit"
     },
     {
       "code": "merge",
-      "gitmoji": ":twisted_rightwards_arrows:",
+      "gitmoji": "twisted_rightwards_arrows",
       "description": "Merges a branch into another"
     },
     {
       "code": "test",
-      "gitmoji": ":alembic:",
+      "gitmoji": "alembic",
       "description": "Changes which affect tests"
     },
     {
       "code": "chore",
-      "gitmoji": ":wrench:",
+      "gitmoji": "wrench",
       "description": "Changes which don't affect the code logic"
     },
     {
       "code": "perf",
-      "gitmoji": ":zap:",
+      "gitmoji": "zap",
       "description": "Changes which improve performance"
     },
     {
       "code": "secrets",
-      "gitmoji": ":closed_lock_with_key:",
+      "gitmoji": "closed_lock_with_key",
       "description": "Changes which affect secrets"
     },
     {
       "code": "build",
-      "gitmoji": ":package:",
+      "gitmoji": "package",
       "description": "Changes which affect the build process"
     },
     {
       "code": "ci",
-      "gitmoji": ":construction_worker:",
+      "gitmoji": "construction_worker",
       "description": "updates to the continuous integration system"
     },
     {
       "code": "release",
-      "gitmoji": ":rocket:",
+      "gitmoji": "rocket",
       "description": "Code deployment or publishing to external repositories"
     },
     {
       "code": "security",
-      "gitmoji": ":lock:",
+      "gitmoji": "lock",
       "description": "Fixing security issues"
     },
     {
       "code": "i18n",
-      "gitmoji": ":globe_with_meridians:",
+      "gitmoji": "globe_with_meridians",
       "description": "Changes which affect internationalization"
     },
     {
       "code": "breaking",
-      "gitmoji": ":boom:",
+      "gitmoji": "boom",
       "description": "Changes which break compatibility"
     },
     {
       "code": "config",
-      "gitmoji": ":hammer:",
+      "gitmoji": "hammer",
       "description": "Changes which affect configuration"
     },
     {
       "code": "add",
-      "gitmoji": ":heavy_plus_sign:",
+      "gitmoji": "heavy_plus_sign",
       "description": "Changes which add new files"
     },
     {
       "code": "remove",
-      "gitmoji": ":fire:",
+      "gitmoji": "fire",
       "description": "Changes which remove files"
     }
   ]
