@@ -26,9 +26,6 @@ jobs:
       - name: Lint check
         run: npm run lint:check
 
-      - name: Spell check
-        run: npm run spell:check
-
       - name: Build
         run: npm run build
 

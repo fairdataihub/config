@@ -9,6 +9,7 @@ const types = [
   "revert",
   "style",
   "test",
+  "ci",
 ];
 
 const scopes = [
