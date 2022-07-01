@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/fairdataihub/config/compare/v1.1.6...v1.2.0) (2022-07-01)
+
+
+### Features
+
+* add codeowners ([363dc7e](https://github.com/fairdataihub/config/commit/363dc7ec73c0d26b1a56a61faeb654921c9cdd19))
+
 ## [1.1.6](https://github.com/fairdataihub/config/compare/v1.1.5...v1.1.6) (2022-07-01)
 
 ### Bug Fixes
