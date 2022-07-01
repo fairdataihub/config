@@ -17,7 +17,7 @@
     },
     {
       "code": "docs",
-      "gitmoji": "pencil",
+      "gitmoji": "page_facing_up",
       "description": "Changes which affect documentation"
     },
     {
@@ -84,11 +84,6 @@
       "code": "breaking",
       "gitmoji": "boom",
       "description": "Changes which break compatibility"
-    },
-    {
-      "code": "config",
-      "gitmoji": "hammer",
-      "description": "Changes which affect configuration"
     },
     {
       "code": "add",
