@@ -1,3 +1,12 @@
+## [1.1.4](https://github.com/fairdataihub/config/compare/v1.1.3...v1.1.4) (2022-07-01)
+
+
+### Bug Fixes
+
+* 🐛 update docs gitmoji to emoji ([7dcc799](https://github.com/fairdataihub/config/commit/7dcc799e01b1a46ac3cd37666dbac59e6479401f))
+* 🐛 update docs gitmoji to pencil ([3283b13](https://github.com/fairdataihub/config/commit/3283b130a90943b43384eb2e6d128405343297ad))
+* 🐛 update docs gitmoji to pencil ([c6fff3d](https://github.com/fairdataihub/config/commit/c6fff3d137e819cdb6799921bc1aeef852909f10))
+
 ## [1.1.3](https://github.com/fairdataihub/config/compare/v1.1.2...v1.1.3) (2022-07-01)
 
 ### Bug Fixes
