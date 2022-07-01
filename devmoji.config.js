@@ -1,7 +1,7 @@
-// const { devmojiConfig } = require("@fairdataihub/config");
+const { devmojiConfig } = require("@fairdataihub/config");
 
-// const config = devmojiConfig();
+const config = devmojiConfig();
 
-// console.log(config);
+console.log(config);
 
-// module.exports = config;
+module.exports = config;
