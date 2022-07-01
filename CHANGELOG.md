@@ -1,3 +1,11 @@
+## [1.1.6](https://github.com/fairdataihub/config/compare/v1.1.5...v1.1.6) (2022-07-01)
+
+
+### Bug Fixes
+
+* 🐛 remove config type ([da437fb](https://github.com/fairdataihub/config/commit/da437fbd38db983cc36e0e70b31b82ac583bd0c6))
+* 🐛 remove config type ([b696056](https://github.com/fairdataihub/config/commit/b696056f3e273f4a222831bd21c40b88ea71a986))
+
 ## [1.1.5](https://github.com/fairdataihub/config/compare/v1.1.4...v1.1.5) (2022-07-01)
 
 ### Bug Fixes
