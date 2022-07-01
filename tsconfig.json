@@ -1,5 +1,5 @@
 {
-  "include": ["./src/**/*.ts"],
+  "include": ["./src/**/*.ts", "commitlint.config.js"],
   "exclude": ["./src/**/__tests__"],
   "compilerOptions": {
     "lib": ["es2020"],

@@ -44,7 +44,8 @@ export function devmojiConfig(type = "default"): ReturnConfig {
 
 export function commitlintConfig(type = "default"): object {
   if (type === "default") {
-    return defaultCommitlintConfig();
+    const config = defaultCommitlintConfig();
+    return config;
   }
   return {};
 }
