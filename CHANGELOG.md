@@ -1,3 +1,11 @@
+## [1.1.3](https://github.com/fairdataihub/config/compare/v1.1.2...v1.1.3) (2022-07-01)
+
+
+### Bug Fixes
+
+* 🐛 update gitmoji icons ([409d56d](https://github.com/fairdataihub/config/commit/409d56d9ccc8aa8b1b89ca97e950e640cc0c4b17))
+* 🐛 update gitmoji icons ([ea9f094](https://github.com/fairdataihub/config/commit/ea9f09467f298043403a7363ebc9ecaf837004e7))
+
 ## [1.1.2](https://github.com/fairdataihub/config/compare/v1.1.1...v1.1.2) (2022-07-01)
 
 ### Bug Fixes
