@@ -48,7 +48,8 @@
   "lint-staged": {
     "./src/**/*.{ts,js,json}": [
       "npm run lint",
-      "npm run format"
+      "npm run format",
+      "npm run build"
     ]
   },
   "config": {

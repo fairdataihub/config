@@ -17,7 +17,7 @@
     },
     {
       "code": "docs",
-      "emoji": "books",
+      "gitmoji": "pencil",
       "description": "Changes which affect documentation"
     },
     {
