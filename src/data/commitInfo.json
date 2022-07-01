@@ -56,11 +56,6 @@
       "description": "Changes which improve performance"
     },
     {
-      "code": "secrets",
-      "gitmoji": "closed_lock_with_key",
-      "description": "Changes which affect secrets"
-    },
-    {
       "code": "build",
       "gitmoji": "package",
       "description": "Changes which affect the build process"
