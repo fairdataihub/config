@@ -1,0 +1,24 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "camelcase",
+    "devmoji",
+    "esbuild",
+    "fairdataihub",
+    "gitmoji",
+    "nextjs",
+    "octocat",
+    "releaserc",
+    "rmrf",
+    "socio"
+  ],
+  "flagWords": [],
+  "ignorePaths": [
+    "package.json",
+    "package-lock.json",
+    "yarn.lock",
+    "tsconfig.json",
+    "node_modules/**"
+  ]
+}

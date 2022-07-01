@@ -1,0 +1,18 @@
+export function defaultPrettierConfig(): object {
+    return {
+        "arrowParens": "always",
+        "bracketSameLine": false,
+        "bracketSpacing": true,
+        "embeddedLanguageFormatting": "auto",
+        "endOfLine": "auto",
+        "htmlWhitespaceSensitivity": "css",
+        "printWidth": 100,
+        "quoteProps": "as-needed",
+        "semi": true,
+        "singleQuote": false,
+        "tabWidth": 2,
+        "trailingComma": "es5",
+        "useTabs": false,
+        "vueIndentScriptAndStyle": false
+    }
+  }

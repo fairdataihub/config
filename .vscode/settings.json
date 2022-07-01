@@ -1,0 +1,18 @@
+{
+  // only use words from .cspell.json
+  "cSpell.userWords": [],
+  "cSpell.enabled": true,
+  "editor.formatOnSave": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/dev/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/synthwave-x-fluoromachine.css",
+    "file:///C:/Users/dev/.vscode/extensions/thecodemonkey.synthwave-x-fluoromachine-epic-animations-1.4.13/epic-80s-transitions.css"
+  ],
+  "cSpell.words": [
+    "commitlint",
+    "devmoji",
+    "esbuild",
+    "fairdataihub"
+  ]
+}
