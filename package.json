@@ -76,7 +76,7 @@
     "esbuild": "^0.14.38",
     "eslint": "8.19.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-import-resolver-typescript": "^3.1.4",
+    "eslint-import-resolver-typescript": "3.2.5",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-import": "^2.26.0",
     "husky": "^8.0.1",
