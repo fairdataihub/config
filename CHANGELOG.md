@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/fairdataihub/config/compare/v1.2.0...v1.2.1) (2022-08-11)
+
+
+### Bug Fixes
+
+* update min node version ([#42](https://github.com/fairdataihub/config/issues/42)) ([6dead33](https://github.com/fairdataihub/config/commit/6dead33638116e64b6f100f3b1270b29fb760a59))
+
 # [1.2.0](https://github.com/fairdataihub/config/compare/v1.1.6...v1.2.0) (2022-07-01)
 
 ### Features
