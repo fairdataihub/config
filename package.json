@@ -94,7 +94,7 @@
     "npm": "8.16.0"
   },
   "dependencies": {
-    "@fairdataihub/config": "^1.1.6",
+    "@fairdataihub/config": "^1.2.1",
     "@semantic-release/git": "^10.0.1",
     "devmoji": "^2.3.0"
   }
