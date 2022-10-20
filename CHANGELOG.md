@@ -1,17 +1,15 @@
 ## [1.2.2](https://github.com/fairdataihub/config/compare/v1.2.1...v1.2.2) (2022-08-11)
 
-
 ### Bug Fixes
 
-* 🐛 update dependencies ([ae658d0](https://github.com/fairdataihub/config/commit/ae658d0a0e2e7f1f3bf9bf717bace2e137c62bce))
-* update dependency ([b2f4628](https://github.com/fairdataihub/config/commit/b2f4628f75d1b95e892deb6e15855738411cf14c))
+- 🐛 update dependencies ([ae658d0](https://github.com/fairdataihub/config/commit/ae658d0a0e2e7f1f3bf9bf717bace2e137c62bce))
+- update dependency ([b2f4628](https://github.com/fairdataihub/config/commit/b2f4628f75d1b95e892deb6e15855738411cf14c))
 
 ## [1.2.1](https://github.com/fairdataihub/config/compare/v1.2.0...v1.2.1) (2022-08-11)
 
-
 ### Bug Fixes
 
-* update min node version ([#42](https://github.com/fairdataihub/config/issues/42)) ([6dead33](https://github.com/fairdataihub/config/commit/6dead33638116e64b6f100f3b1270b29fb760a59))
+- update min node version ([#42](https://github.com/fairdataihub/config/issues/42)) ([6dead33](https://github.com/fairdataihub/config/commit/6dead33638116e64b6f100f3b1270b29fb760a59))
 
 # [1.2.0](https://github.com/fairdataihub/config/compare/v1.1.6...v1.2.0) (2022-07-01)
 
