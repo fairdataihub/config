@@ -96,6 +96,6 @@
   "dependencies": {
     "@fairdataihub/config": "^1.2.1",
     "@semantic-release/git": "^10.0.1",
-    "devmoji": "^2.3.0"
+    "megasanjay-devmoji": "^1.0.0"
   }
 }
