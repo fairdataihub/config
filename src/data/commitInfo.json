@@ -13,11 +13,16 @@
     {
       "code": "fix",
       "gitmoji": "bug",
-      "description": "Changes which patch a bug. Includes spelling error corrections"
+      "description": "Changes which patch a bug"
+    },
+    {
+      "code": "typo",
+      "gitmoji": "pencil2",
+      "description": "Changes which fix a typo"
     },
     {
       "code": "docs",
-      "gitmoji": "page_facing_up",
+      "gitmoji": "memo",
       "description": "Changes which affect documentation"
     },
     {
@@ -47,7 +52,7 @@
     },
     {
       "code": "chore",
-      "gitmoji": "wrench",
+      "gitmoji": "hammer",
       "description": "Changes which don't affect the code logic"
     },
     {
@@ -94,6 +99,21 @@
       "code": "remove",
       "gitmoji": "fire",
       "description": "Changes which remove files"
+    },
+    {
+      "code": "initial",
+      "gitmoji": "tada",
+      "description": "Begin a project"
+    },
+    {
+      "code": "dx",
+      "gitmoji": "technologist",
+      "description": "Changes which improve developer experience"
+    },
+    {
+      "code": "ux",
+      "gitmoji": "children_crossing",
+      "description": "Changes which improve user experience/usability"
     }
   ]
 }
