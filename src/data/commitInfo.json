@@ -107,7 +107,7 @@
     },
     {
       "code": "dx",
-      "emoji": "man_technologist",
+      "gitmoji": "technologist",
       "description": "Changes which improve developer experience"
     },
     {
