@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/fairdataihub/config/compare/v2.2.0...v2.2.1) (2022-10-24)
+
+
+### Bug Fixes
+
+* **deps:** 🐛 move from dev to dependency ([9bc4b48](https://github.com/fairdataihub/config/commit/9bc4b48fc3717575c2c9a06c8f40f7fc1bb46877))
+
 # [2.2.0](https://github.com/fairdataihub/config/compare/v2.1.0...v2.2.0) (2022-10-24)
 
 ### Bug Fixes
