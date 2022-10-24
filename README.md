@@ -4,7 +4,16 @@
 ![NPM](https://img.shields.io/npm/v/@fairdataihub/config)
 ![GitHub Workflow Status](https://github.com/fairdataihub/config/actions/workflows/release.yml/badge.svg?branch=main)
 
-A simple list of configs for use in fairdataihub projects
+A simple list of configs for use in [FAIR Data Innovations Hub](https://github.com/fairdataihub) projects.
+
+```
+npm install --save-dev @fairdataihub/config
+yarn add -D @fairdataihub/config
+```
+
+## How to use
+
+Refer to our documentation for this package here: [@fairdataihub/config](https://dev.fairdataihub.org/general/config.html)
 
 ## Getting started
 
