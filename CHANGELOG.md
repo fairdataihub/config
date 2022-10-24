@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/fairdataihub/config/compare/v2.0.0...v2.1.0) (2022-10-24)
+
+
+### Features
+
+* ✨ add new types and gitmojis ([caf9a29](https://github.com/fairdataihub/config/commit/caf9a2908959a05c2cb4e47541181cd71fc97b53))
+
 # [2.0.0](https://github.com/fairdataihub/config/compare/v1.2.2...v2.0.0) (2022-10-20)
 
 - feat!: 💥 ✨ update devmoji package source ([88f27ea](https://github.com/fairdataihub/config/commit/88f27ea8bca42bd5f9e137a1f9a4f68061dc3832))
