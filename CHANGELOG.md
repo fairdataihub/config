@@ -1,21 +1,18 @@
 # [2.2.0](https://github.com/fairdataihub/config/compare/v2.1.0...v2.2.0) (2022-10-24)
 
-
 ### Bug Fixes
 
-* 🐛 update type for `dx` ([f799d0d](https://github.com/fairdataihub/config/commit/f799d0d2009a21b593bfca7f96de08d6e67b67e1))
-
+- 🐛 update type for `dx` ([f799d0d](https://github.com/fairdataihub/config/commit/f799d0d2009a21b593bfca7f96de08d6e67b67e1))
 
 ### Features
 
-* ✨ release new version ([56d1a53](https://github.com/fairdataihub/config/commit/56d1a535d26920c18a0d27135cadb58f9a646eee))
+- ✨ release new version ([56d1a53](https://github.com/fairdataihub/config/commit/56d1a535d26920c18a0d27135cadb58f9a646eee))
 
 # [2.1.0](https://github.com/fairdataihub/config/compare/v2.0.0...v2.1.0) (2022-10-24)
 
-
 ### Features
 
-* ✨ add new types and gitmojis ([caf9a29](https://github.com/fairdataihub/config/commit/caf9a2908959a05c2cb4e47541181cd71fc97b53))
+- ✨ add new types and gitmojis ([caf9a29](https://github.com/fairdataihub/config/commit/caf9a2908959a05c2cb4e47541181cd71fc97b53))
 
 # [2.0.0](https://github.com/fairdataihub/config/compare/v1.2.2...v2.0.0) (2022-10-20)
 
