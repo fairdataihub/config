@@ -1,14 +1,12 @@
 # [2.0.0](https://github.com/fairdataihub/config/compare/v1.2.2...v2.0.0) (2022-10-20)
 
-
-* feat!: 💥 ✨ update devmoji package source ([88f27ea](https://github.com/fairdataihub/config/commit/88f27ea8bca42bd5f9e137a1f9a4f68061dc3832))
-* feat!: 💥 ✨ update devmoji package source ([24b4212](https://github.com/fairdataihub/config/commit/24b421270a8fc3fb9d31443bb7bef1634e81bdd8))
-
+- feat!: 💥 ✨ update devmoji package source ([88f27ea](https://github.com/fairdataihub/config/commit/88f27ea8bca42bd5f9e137a1f9a4f68061dc3832))
+- feat!: 💥 ✨ update devmoji package source ([24b4212](https://github.com/fairdataihub/config/commit/24b421270a8fc3fb9d31443bb7bef1634e81bdd8))
 
 ### BREAKING CHANGES
 
-* Update package source for new emojis
-* Update package source for new emojis
+- Update package source for new emojis
+- Update package source for new emojis
 
 ## [1.2.2](https://github.com/fairdataihub/config/compare/v1.2.1...v1.2.2) (2022-08-11)
 
