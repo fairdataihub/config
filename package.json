@@ -73,7 +73,7 @@
     "commitizen": "4.2.5",
     "cspell": "6.29.0",
     "cz-conventional-changelog": "3.3.0",
-    "esbuild": "0.14.53",
+    "esbuild": "0.17.11",
     "eslint": "8.36.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-import-resolver-typescript": "3.5.3",
