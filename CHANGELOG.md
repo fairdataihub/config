@@ -1,14 +1,12 @@
 ## [2.2.2](https://github.com/fairdataihub/config/compare/v2.2.1...v2.2.2) (2023-03-15)
 
-
 ### Bug Fixes
 
-* **deps:** update dependency @fairdataihub/config to v2.2.1 ([#71](https://github.com/fairdataihub/config/issues/71)) ([3b2bb9e](https://github.com/fairdataihub/config/commit/3b2bb9ecbc0efba159eca950493453aca712760f))
-
+- **deps:** update dependency @fairdataihub/config to v2.2.1 ([#71](https://github.com/fairdataihub/config/issues/71)) ([3b2bb9e](https://github.com/fairdataihub/config/commit/3b2bb9ecbc0efba159eca950493453aca712760f))
 
 ### Reverts
 
-* Revert "chore(deps): update dependency semantic-release to v20 (#69)" (#72) ([87ddda1](https://github.com/fairdataihub/config/commit/87ddda13e13c04e04f339287c2937d62ad7f6cdb)), closes [#69](https://github.com/fairdataihub/config/issues/69) [#72](https://github.com/fairdataihub/config/issues/72)
+- Revert "chore(deps): update dependency semantic-release to v20 (#69)" (#72) ([87ddda1](https://github.com/fairdataihub/config/commit/87ddda13e13c04e04f339287c2937d62ad7f6cdb)), closes [#69](https://github.com/fairdataihub/config/issues/69) [#72](https://github.com/fairdataihub/config/issues/72)
 
 ## [2.2.1](https://github.com/fairdataihub/config/compare/v2.2.0...v2.2.1) (2022-10-24)
 
