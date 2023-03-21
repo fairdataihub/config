@@ -1,9 +1,8 @@
 ## [2.2.3](https://github.com/fairdataihub/config/compare/v2.2.2...v2.2.3) (2023-03-20)
 
-
 ### Bug Fixes
 
-* **deps:** update dependency @fairdataihub/config to v2.2.2 ([#76](https://github.com/fairdataihub/config/issues/76)) ([9f1f7cc](https://github.com/fairdataihub/config/commit/9f1f7cc414c02667b57480ed728b762be2832492))
+- **deps:** update dependency @fairdataihub/config to v2.2.2 ([#76](https://github.com/fairdataihub/config/issues/76)) ([9f1f7cc](https://github.com/fairdataihub/config/commit/9f1f7cc414c02667b57480ed728b762be2832492))
 
 ## [2.2.2](https://github.com/fairdataihub/config/compare/v2.2.1...v2.2.2) (2023-03-15)
 
