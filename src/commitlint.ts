@@ -14,6 +14,7 @@ export function defaultCommitlintConfig(): object {
     "authentication",
     "settings",
     "deps",
+    "release"
   ];
 
   return {
