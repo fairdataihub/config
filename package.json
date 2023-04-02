@@ -91,7 +91,7 @@
   },
   "volta": {
     "node": "16.15.0",
-    "npm": "9.6.2"
+    "npm": "9.6.3"
   },
   "dependencies": {
     "@fairdataihub/config": "^2.1.0",
