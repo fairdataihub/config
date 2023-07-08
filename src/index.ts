@@ -54,7 +54,7 @@ export function releasercConfig(
   type = "default",
   orgName: string,
   repoName: string,
-  npmPublish = false
+  npmPublish = false,
 ): object {
   if (type === "default") {
     return defaultReleaseConfig(orgName, repoName, npmPublish);

@@ -1,7 +1,7 @@
 export function defaultReleaseConfig(
   orgName: string,
   repoName: string,
-  npmPublish: boolean
+  npmPublish: boolean,
 ): object {
   const config = {
     branches: [
